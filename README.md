@@ -4,7 +4,7 @@ Singapore Public Holidays
 Dates are sourced from http://www.mom.gov.sg/employment-practices/public-holidays
 
 You can access this via HTTP GET at
-`https://rjchow.github.io/singapore_public_holidays/api/**<year>**/data.json`
+`https://trolommonm.github.io/singapore_public_holidays/api/**<year>**/data.json`
 
 e.g for 2016:
 https://trolommonm.github.io/singapore_public_holidays/api/2016/data.json
